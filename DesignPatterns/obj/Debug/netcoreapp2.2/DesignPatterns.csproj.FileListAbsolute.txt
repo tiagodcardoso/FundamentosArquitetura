@@ -1,0 +1,10 @@
+C:\Labs\FundamentosArquitetura\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.deps.json
+C:\Labs\FundamentosArquitetura\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.runtimeconfig.json
+C:\Labs\FundamentosArquitetura\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.runtimeconfig.dev.json
+C:\Labs\FundamentosArquitetura\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.dll
+C:\Labs\FundamentosArquitetura\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.pdb
+C:\Labs\FundamentosArquitetura\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.csprojAssemblyReference.cache
+C:\Labs\FundamentosArquitetura\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.AssemblyInfoInputs.cache
+C:\Labs\FundamentosArquitetura\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.AssemblyInfo.cs
+C:\Labs\FundamentosArquitetura\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.dll
+C:\Labs\FundamentosArquitetura\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.pdb

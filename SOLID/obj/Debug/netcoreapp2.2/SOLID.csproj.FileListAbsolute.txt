@@ -1,0 +1,10 @@
+C:\Labs\FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.deps.json
+C:\Labs\FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.runtimeconfig.json
+C:\Labs\FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.runtimeconfig.dev.json
+C:\Labs\FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.dll
+C:\Labs\FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.pdb
+C:\Labs\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.csprojAssemblyReference.cache
+C:\Labs\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.AssemblyInfoInputs.cache
+C:\Labs\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.AssemblyInfo.cs
+C:\Labs\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.dll
+C:\Labs\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.pdb
