@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Labs\\FundamentosArquitetura\\SOLID\\SOLID.csproj": {}
+    "C:\\Users\\tiago.cardoso\\source\\repos\\FundamentosArquitetura\\SOLID\\SOLID.csproj": {}
   },
   "projects": {
-    "C:\\Labs\\FundamentosArquitetura\\SOLID\\SOLID.csproj": {
+    "C:\\Users\\tiago.cardoso\\source\\repos\\FundamentosArquitetura\\SOLID\\SOLID.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Labs\\FundamentosArquitetura\\SOLID\\SOLID.csproj",
+        "projectUniqueName": "C:\\Users\\tiago.cardoso\\source\\repos\\FundamentosArquitetura\\SOLID\\SOLID.csproj",
         "projectName": "SOLID",
-        "projectPath": "C:\\Labs\\FundamentosArquitetura\\SOLID\\SOLID.csproj",
-        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Labs\\FundamentosArquitetura\\SOLID\\obj\\",
+        "projectPath": "C:\\Users\\tiago.cardoso\\source\\repos\\FundamentosArquitetura\\SOLID\\SOLID.csproj",
+        "packagesPath": "C:\\Users\\tiago.cardoso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiago.cardoso\\source\\repos\\FundamentosArquitetura\\SOLID\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\tiago.cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -64,7 +62,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
